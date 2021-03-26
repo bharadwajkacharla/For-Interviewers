@@ -4,7 +4,7 @@ The data has been sourced from the Kaggle competition titled 'Dog Breed Identifi
 
 For any questions related to the code or synopsis please feel free to contact the below team members.
 
-Bharadwaj Kacharla – bharadwajk@uchicago.edu
-Duo Zhou - zd0009@uchicago.edu
-Jenny Jiang - jejiang@uchicago.edu 
-Rich Johnson - richjohnson@uchicago.edu 
+- Bharadwaj Kacharla – bharadwajk@uchicago.edu  
+- Duo Zhou - zd0009@uchicago.edu  
+- Jenny Jiang - jejiang@uchicago.edu   
+- Rich Johnson - richjohnson@uchicago.edu   
